@@ -15,7 +15,7 @@ public class NMC {
     
     public static final String MODID = "nmc";
     public static final String NAME = "No More Charcoal";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "1.1";
 
     @Mod.EventHandler
     public void init(FMLPostInitializationEvent event) {
