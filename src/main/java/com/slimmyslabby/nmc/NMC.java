@@ -20,7 +20,7 @@ public class NMC {
     @Mod.EventHandler
     public void init(FMLPostInitializationEvent event) {
 
-        // Grabs an the furnace recipes instance
+        // Grabs the furnace recipes instance
         final FurnaceRecipes furnaceRecipeManager = FurnaceRecipes.instance();
 
         // Creates a hashmap of all existing recipes
